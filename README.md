@@ -2,7 +2,6 @@
 - 👀 I’m interested in Embedded C and robotics
 - 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on autonomous systems
-- 📫 DM me on Tumblr
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have no idea what I'm doing. Hopefully the appearance of confidence is enough. 
 
